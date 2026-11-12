@@ -1,7 +1,4 @@
 # lumenx_grayscale_slicer
-Slices multi-part .3mf models (e.g. Onshape exports) into custom grayscale PNG stacks for the CELLINK LumenX Gen-3 bioprinter.
-
-# lumenx_grayscale_slicer
 
 This tool turns a multi-part 3D model (`.3mf`) into a stack of grayscale PNG images  layers that the CELLINK LumenX Gen-3 printer can use.
 
